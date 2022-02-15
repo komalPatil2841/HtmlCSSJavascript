@@ -1,0 +1,13 @@
+.parent {
+    background-image: url("img/r.jpg"); 
+     background-size: cover; 
+    height: 600px;
+    position: relative;
+ }
+ .center1 {
+     position: absolute; 
+  color:white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+ }
